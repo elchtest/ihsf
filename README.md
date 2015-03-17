@@ -17,6 +17,6 @@ IJCSA, 2015
 
 Daniel Pohl (Intel), Stefan Nickels (Intel Visual Computing Institute) and Oliver Grau (Intel) 
 
-Best Paper Award, FedCSIS 2014, Warsaw
+Best Paper Award, FedCSIS 2014 (MMAP), Warsaw
 
 http://www.qwrt.de/pdf/High-quality-low-latency-in-home-streaming-of-multimedia-applications-for-mobile-devices.pdf
