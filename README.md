@@ -22,5 +22,5 @@ Best Paper Award, FedCSIS 2014 (MMAP), Warsaw
 http://www.qwrt.de/pdf/High-quality-low-latency-in-home-streaming-of-multimedia-applications-for-mobile-devices.pdf
 
 
-
+====================
 The code is released through the Saarland University, Germany.
