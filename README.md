@@ -4,7 +4,7 @@ In-home Streaming Framework
 Here we are hosting a reference implementation of the in-home streaming framework as described in our publications:
  
 
-Advanced in-home streaming to mobile devices and wearables
+1) Advanced in-home streaming to mobile devices and wearables
 
 Daniel Pohl (Intel), Bartosz Taudul (Huuuge Games), Stefan Nickels (Intel Visual Computing Institute) and Oliver Grau (Intel) 
 
@@ -13,7 +13,7 @@ IJCSA, 2015
  
  
  
-High quality, low latency in-home streaming of multimedia applications for mobile devices
+2) High quality, low latency in-home streaming of multimedia applications for mobile devices
 
 Daniel Pohl (Intel), Stefan Nickels (Intel Visual Computing Institute) and Oliver Grau (Intel) 
 
