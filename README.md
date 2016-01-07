@@ -6,7 +6,7 @@ Here we are hosting a reference implementation of the in-home streaming framewor
 
 1) Advanced in-home streaming to mobile devices and wearables
 
-Daniel Pohl (Intel), Bartosz Taudul (Huuuge Games), Stefan Nickels (Intel Visual Computing Institute) and Oliver Grau (Intel) 
+Daniel Pohl (Intel), Bartosz Taudul (Huuuge Games), Richard Membarth (DFKI), Stefan Nickels (Intel Visual Computing Institute) and Oliver Grau (Intel) 
 
 IJCSA, 2015 
 
